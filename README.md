@@ -1,171 +1,194 @@
+<h1 align="center">👋 Hi, I'm Suchandra Etti</h1>
+<h3 align="center">A passionate Frontend and Application Developer from India</h3>
 
-    <title>Suchandra Etti - Portfolio</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Roboto', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-%F0%9F%92%BB-blue" alt="Frontend Developer Badge">
+  <img src="https://img.shields.io/badge/Application%20Development-Flutter%20&%20Node.js-brightgreen" alt="Application Developer Badge">
+</p>
 
-        header {
-            background: linear-gradient(135deg, #6e8efb, #a777e3);
-            color: white;
-            text-align: center;
-            padding: 40px 20px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
+---
 
-        header h1 {
-            font-size: 2.5rem;
-            margin: 0;
-        }
+### 👩‍💻 About Me
+- 🔭 **Currently working on:** [College Application for Students](#)
+- 🌱 **Currently learning:** Google Flutter, Node.js, Express.js, MongoDB
+- 👯 **Looking to collaborate on:** E-Commerce Applications
+- 🤝 **Need help with:** Cloud Computing and IoT Projects
+- 👨‍💻 **My work:** [GitHub Portfolio](https://github.com/SnvvSuchandraEtti)
+- 💬 **Ask me about:** Flutter, Java, Python
+- 📫 **How to reach me:** snvvs369@gmail.com
+- 📄 **Know my experience:** [Resume](https://drive.google.com/file/d/1vjA-xYBa3WOc9dxbQ7PUc5FnGD5ZVpgQ/view?usp=sharing)
+- ⚡ **Fun Fact:** I think I am funny!
 
-        header h3 {
-            font-size: 1.5rem;
-            margin: 10px 0 0;
-        }
+---
 
-        .badges {
-            display: flex;
-            justify-content: center;
-            margin: 20px 0;
-            gap: 10px;
-        }
+### 🌐 Connect with Me
+<div align="center">
+<a href="https://codepen.io/snvvsuchandraetti" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
+  </a>
+  <a href="https://dev.to/suchandra" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/snvvs369" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/suchandra-etti" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/22353817/suchandra" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
+  <a href="https://codesandbox.io/u/suchandra" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/snvvsuachandraetti" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100070206241754" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/s.u.c.h.a.n.d.r.a" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://dribbble.com/suchandra369" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
+  </a>
+  <a href="https://www.behance.net/shivashiva187" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
+  </a>
+  <a href="https://hashnode.com/@suchandra" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@snvvs369" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@snvvs369/videos" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/suchandra369" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/22a91a0570" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/snvvs369" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/snvvsuchandraetti/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerearth.com/@snvvs369/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/user_snvvsuchandra369/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
+  <a href="https://profiles.topcoder.com/suchandra369" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" height="30" width="40" />
+  </a>
+  <a href="https://discordapp.com/users/1024284026489544725" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+</div>
 
-        .badges img {
-            height: 30px;
-        }
+---
 
-        section {
-            padding: 20px;
-            margin: 20px auto;
-            max-width: 900px;
-            background: white;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
+### 🛠️ Languages and Tools
+<div align="center">
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30" />
+  </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30" />
+  </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="30" height="30" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" />
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30" />
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" />
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30" />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" />
+  </a>
+</p>
+</div>
 
-        section h2 {
-            border-bottom: 2px solid #6e8efb;
-            padding-bottom: 5px;
-            margin-bottom: 15px;
-        }
+---
 
-        ul {
-            list-style: none;
-            padding: 0;
-        }
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SnvvSuchandraEtti&show_icons=true&theme=radical" alt="Suchandra's GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnvvSuchandraEtti&theme=radical" alt="GitHub Streak">
+</p>
 
-        ul li {
-            margin: 10px 0;
-            line-height: 1.5;
-        }
+---
 
-        .connect-icons {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 15px;
-            margin: 20px 0;
-        }
+### 🚀 Projects
+- [College Application for Students](#)
+- [E-Commerce Application](#)
+- [IoT-Based Home Automation](#)
 
-        .connect-icons a img {
-            height: 40px;
-            transition: transform 0.3s ease;
-        }
+---
 
-        .connect-icons a img:hover {
-            transform: scale(1.1);
-        }
-
-        .tools {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-            gap: 15px;
-            justify-items: center;
-            margin-top: 20px;
-        }
-
-        .tools img {
-            height: 40px;
-        }
-
-        footer {
-            text-align: center;
-            padding: 20px;
-            background: #6e8efb;
-            color: white;
-            margin-top: 20px;
-        }
-
-        footer a {
-            color: white;
-            text-decoration: none;
-            font-weight: bold;
-        }
-
-        footer a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>👋 Hi, I'm Suchandra Etti</h1>
-        <h3>A passionate Frontend and Application Developer from India</h3>
-        <div class="badges">
-            <img src="https://img.shields.io/badge/Frontend%20Developer-%F0%9F%92%BB-blue" alt="Frontend Developer Badge">
-            <img src="https://img.shields.io/badge/Application%20Development-Flutter%20&%20Node.js-brightgreen" alt="Application Developer Badge">
-        </div>
-    </header>
-
-    <section>
-        <h2>👩‍💻 About Me</h2>
-        <ul>
-            <li>🔭 <strong>Currently working on:</strong> <a href="#">College Application for Students</a></li>
-            <li>🌱 <strong>Currently learning:</strong> Google Flutter, Node.js, Express.js, MongoDB</li>
-            <li>👯 <strong>Looking to collaborate on:</strong> E-Commerce Applications</li>
-            <li>🤝 <strong>Need help with:</strong> Cloud Computing and IoT Projects</li>
-            <li>👨‍💻 <strong>My work:</strong> <a href="https://github.com/SnvvSuchandraEtti">GitHub Portfolio</a></li>
-            <li>💬 <strong>Ask me about:</strong> Flutter, Java, Python</li>
-            <li>📫 <strong>How to reach me:</strong> snvvs369@gmail.com</li>
-            <li>📄 <strong>Know my experience:</strong> <a href="https://drive.google.com/file/d/1vjA-xYBa3WOc9dxbQ7PUc5FnGD5ZVpgQ/view?usp=sharing">Resume</a></li>
-            <li>⚡ <strong>Fun Fact:</strong> I think I am funny!</li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>🌐 Connect with Me</h2>
-        <div class="connect-icons">
-            <a href="https://codepen.io/snvvsuchandraetti"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen"></a>
-            <a href="https://dev.to/suchandra"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to"></a>
-            <a href="https://twitter.com/snvvs369"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter"></a>
-            <a href="https://linkedin.com/in/suchandra-etti"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"></a>
-            <a href="https://stackoverflow.com/users/22353817/suchandra"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow"></a>
-            <a href="https://instagram.com/s.u.c.h.a.n.d.r.a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram"></a>
-            <a href="https://www.youtube.com/@snvvs369/videos"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube"></a>
-        </div>
-    </section>
-
-    <section>
-        <h2>🛠️ Languages and Tools</h2>
-        <div class="tools">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android">
-            <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3">
-            <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-        </div>
-    </section>
-
-    <footer>
-        <p>✨ Designed by <a href="https://github.com/SnvvSuchandraEtti">Suchandra Etti</a> ✨</p>
-    </footer>
-</body>
+### 🏆 Achievements
+- **Hackathon Winner:** Best UI Award 2023
+- **CodeChef Certified:** Problem Solving 2022
+- **Google Cloud Challenge:** Completed 2022
