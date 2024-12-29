@@ -173,22 +173,8 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SnvvSuchandraEtti&show_icons=true&theme=radical" alt="Suchandra's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnvvSuchandraEtti&theme=radical" alt="GitHub Streak">
-</p>
-
----
-
 ### 🚀 Projects
 - [College Application for Students](#)
 - [E-Commerce Application](#)
 - [IoT-Based Home Automation](#)
 
----
-
-### 🏆 Achievements
-- **Hackathon Winner:** Best UI Award 2023
-- **CodeChef Certified:** Problem Solving 2022
-- **Google Cloud Challenge:** Completed 2022
