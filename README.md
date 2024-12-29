@@ -1,50 +1,75 @@
-<h1 align="center">Hi 👋, I'm Suchandra Etti</h1>
-<h3 align="center">A passionate frontend and application developer from India</h3>
+<h1 align="center">👋 Hi, I'm Suchandra Etti</h1>
+<h3 align="center">A passionate Frontend and Application Developer from India</h3>
 
-- 🔭 I’m currently working on **College Application for Students**
-
-- 🌱 I’m currently learning **Google Flutter, Node.js, Express.js, and MongoDB**
-
-- 👯 I’m looking to collaborate on **E-Commerce Application**
-
-- 🤝 I’m looking for help with **Cloud Computing and IoT Project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SnvvSuchandraEtti](https://github.com/SnvvSuchandraEtti)
-
-- 💬 Ask me about **Flutter, Java, and Python**
-
-- 📫 How to reach me **snvvs369@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vjA-xYBa3WOc9dxbQ7PUc5FnGD5ZVpgQ/view?usp=sharing](https://drive.google.com/file/d/1vjA-xYBa3WOc9dxbQ7PUc5FnGD5ZVpgQ/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/snvvsuchandraetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/snvvsuchandraetti" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/suchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/suchandra" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/snvvs369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/snvvs369" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suchandra-etti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suchandra-etti/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22353817/suchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22353817/suchandra" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/suchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/suchandra" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/snvvsuachandraetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/snvvsuachandraetti" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100070206241754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100070206241754" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/s.u.c.h.a.n.d.r.a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/s.u.c.h.a.n.d.r.a/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/suchandra369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/suchandra369" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/shivashiva187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/shivashiva187" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@suchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@suchandra" height="30" width="40" /></a>
-<a href="https://medium.com/@snvvs369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@snvvs369" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@snvvs369/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@snvvs369/videos" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/suchandra369" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/suchandra369" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/22a91a0570" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/22a91a0570" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/snvvs369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/snvvs369" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/snvvsuchandraetti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/snvvsuchandraetti/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@snvvs369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@snvvs369/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/user_snvvsuchandra369/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/user_snvvsuchandra369/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/https://profiles.topcoder.com/suchandra369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/suchandra369" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discordapp.com/users/1024284026489544725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1024284026489544725" height="30" width="40" /></a>
-<a href="/https://rss.app/account/suchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.app/account/suchandra" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-%F0%9F%92%BB-blue" alt="Frontend Developer Badge">
+  <img src="https://img.shields.io/badge/Application%20Development-Flutter%20&%20Node.js-brightgreen" alt="Application Developer Badge">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="30" height="30"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> </p>
+---
+
+### 👩‍💻 About Me
+- 🔭 **Currently working on:** [College Application for Students](#)
+- 🌱 **Currently learning:** Google Flutter, Node.js, Express.js, MongoDB
+- 👯 **Looking to collaborate on:** E-Commerce Applications
+- 🤝 **Need help with:** Cloud Computing and IoT Projects
+- 👨‍💻 **My work:** [GitHub Portfolio](https://github.com/SnvvSuchandraEtti)
+- 💬 **Ask me about:** Flutter, Java, Python
+- 📫 **How to reach me:** snvvs369@gmail.com
+- 📄 **Know my experience:** [Resume](https://drive.google.com/file/d/1vjA-xYBa3WOc9dxbQ7PUc5FnGD5ZVpgQ/view?usp=sharing)
+- ⚡ **Fun Fact:** I think I am funny!
+
+---
+
+### 🌐 Connect with Me
+<div align="center">
+  <a href="https://codepen.io/snvvsuchandraetti" target="_blank"><img src="https://img.icons8.com/material-outlined/40/codepen.png" alt="CodePen"></a>
+  <a href="https://dev.to/suchandra" target="_blank"><img src="https://img.icons8.com/windows/40/dev.png" alt="Dev.to"></a>
+  <a href="https://twitter.com/snvvs369" target="_blank"><img src="https://img.icons8.com/material-outlined/40/twitter-squared.png" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/suchandra-etti/" target="_blank"><img src="https://img.icons8.com/ios-filled/40/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://stackoverflow.com/users/22353817/suchandra" target="_blank"><img src="https://img.icons8.com/material-rounded/40/stackoverflow.png" alt="StackOverflow"></a>
+  <a href="https://www.instagram.com/s.u.c.h.a.n.d.r.a/" target="_blank"><img src="https://img.icons8.com/ios-filled/40/instagram-new.png" alt="Instagram"></a>
+  <a href="https://dribbble.com/suchandra369" target="_blank"><img src="https://img.icons8.com/ios-filled/40/dribbble.png" alt="Dribbble"></a>
+  <a href="https://www.youtube.com/@snvvs369/videos" target="_blank"><img src="https://img.icons8.com/material-outlined/40/youtube-play.png" alt="YouTube"></a>
+</div>
+
+---
+
+### 🛠️ Languages and Tools
+<div align="center">
+  <img src="https://img.icons8.com/color/40/android-studio--v3.png" alt="Android">
+  <img src="https://img.icons8.com/color/40/html-5.png" alt="HTML5">
+  <img src="https://img.icons8.com/color/40/css3.png" alt="CSS3">
+  <img src="https://img.icons8.com/color/40/javascript--v2.png" alt="JavaScript">
+  <img src="https://img.icons8.com/color/40/flutter.png" alt="Flutter">
+  <img src="https://img.icons8.com/color/40/dart.png" alt="Dart">
+  <img src="https://img.icons8.com/color/40/nodejs.png" alt="Node.js">
+  <img src="https://img.icons8.com/color/40/mongodb.png" alt="MongoDB">
+  <img src="https://img.icons8.com/color/40/firebase.png" alt="Firebase">
+  <img src="https://img.icons8.com/color/40/python.png" alt="Python">
+  <img src="https://img.icons8.com/color/40/git.png" alt="Git">
+  <img src="https://img.icons8.com/color/40/github.png" alt="GitHub">
+  <img src="https://img.icons8.com/color/40/linux.png" alt="Linux">
+</div>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SnvvSuchandraEtti&show_icons=true&theme=radical" alt="Suchandra's GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnvvSuchandraEtti&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+### 🚀 Projects
+- [College Application for Students](#)
+- [E-Commerce Application](#)
+- [IoT-Based Home Automation](#)
+
+---
+
+### 🏆 Achievements
+- **Hackathon Winner:** Best UI Award 2023
+- **CodeChef Certified:** Problem Solving 2022
+- **Google Cloud Challenge:** Completed 2022
