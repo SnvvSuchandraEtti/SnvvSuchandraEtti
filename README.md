@@ -15,7 +15,7 @@
 - 🤝 **Need help with:** Cloud Computing and IoT Projects
 - 👨‍💻 **My work:** [GitHub Portfolio](https://github.com/SnvvSuchandraEtti)
 - 💬 **Ask me about:** Flutter, Java, Python
-- 📫 **How to reach me:** snvvs369@gmail.com
+- 📫 **How to reach me:** [snvvs369@gmail.com](https://linktr.ee/snvvs369)
 - 📄 **Know my experience:** [Resume](https://drive.google.com/file/d/1vjA-xYBa3WOc9dxbQ7PUc5FnGD5ZVpgQ/view?usp=sharing)
 - ⚡ **Fun Fact:** I think I am funny!
 
