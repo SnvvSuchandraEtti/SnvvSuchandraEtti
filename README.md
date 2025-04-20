@@ -16,7 +16,7 @@
 - 👨‍💻 **My work:** [GitHub Portfolio](https://github.com/SnvvSuchandraEtti)
 - 💬 **Ask me about:** Flutter, Java, Python
 - 📫 **How to reach me:** Just mail me at  [snvvs369@gmail.com](snvvs369@gmail.com)  or  [Here](https://linktr.ee/snvvs369)  
-- 📄 **Know my experience:** [Resume]([https://drive.google.com/file/d/1vjA-xYBa3WOc9dxbQ7PUc5FnGD5ZVpgQ/view?usp=sharing](https://drive.google.com/file/d/1rF5u9F9qsI6ZUSWzF7v1yf7DnZo2D5Ax/view?usp=sharing))
+- 📄 **Know my experience:** [Resume](https://drive.google.com/file/d/1FjYTd5Va84wmQcAx1R5VXa1S0jAf2xyF/view)
 - ⚡ **Fun Fact:** I think I am funny!
 
 ---
