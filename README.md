@@ -1,154 +1,241 @@
-<!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Suchandra%20Etti&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%7C%20App%20Developer%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn" />
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,100:0d1b2a&height=3&section=header"/>
 
-<!-- PROFILE VIEWS + BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SnvvSuchandraEtti&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views" />
-  &nbsp;
-  <a href="https://github.com/SnvvSuchandraEtti?tab=followers">
-    <img src="https://img.shields.io/github/followers/SnvvSuchandraEtti?style=for-the-badge&color=0ea5e9&label=FOLLOWERS&logo=github" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20Mobile-f59e0b?style=for-the-badge" />
-</p>
+<br/>
 
-<!-- ANIMATED TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Suchandra+%F0%9F%91%8B;Frontend+%26+App+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Leez+%E2%80%94+AI+Rental+Marketplace+%F0%9F%9A%80;Flutter+%7C+React+%7C+Node.js+%7C+MongoDB;Always+learning%2C+always+building!" alt="Typing SVG" />
-</p>
+<div align="center">
 
----
-
-## 🧠 About Me
-
-```yaml
-name        : Suchandra Etti
-location    : Telangana, India 🇮🇳
-education   : B.Tech CSE — Aditya University (Final Year)
-current_project : Leez — AI-Powered Digital Rental Marketplace
-                  (Tier-2 & Tier-3 cities focus)
-tech_stack  : [React.js, Flutter, Node.js, Express.js, MongoDB, Firebase]
-ai_features : [Cosine Similarity Recommendations, Regression Analytics]
-interests   : [App Dev, UI/UX, Fashion, Telugu Culture]
-fun_fact    : "I think I am funny!"
-open_to     : [Collaborations, E-Commerce Projects, Cloud + IoT]
+```
+ ___  _   _  ___  _   _   __   _  _  ____  ____   __
+/ __)( )_( )/ __)( )_( ) / _\ ( \( )(  _ \(  _ \ / _\
+\__ \ ) _ (( (__  ) _ ( /    \ )  (  )(_) ))   //    \
+(___/(_) (_)\___)(_____)\_/\_/(_)\_)(____/ (__\_)\_/\_/
 ```
 
----
+</div>
 
-## 🌐 Connect With Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=06B6D4&center=true&vCenter=true&width=580&lines=Final-Year+CSE+%40+Aditya+University;Flutter+%7C+React+%7C+Node.js+%7C+Firebase+%7C+AWS;18%2C000%2B+Users+Served+%E2%80%94+Apps+in+Production;Top+5%25+Globally+%7C+500%2B+Problems+Solved;Building+products+that+actually+ship+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="mailto:snvvs369@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/suchandra-etti">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/snvvs369">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/suchandra369">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@snvvs369/videos">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@snvvs369">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://dev.to/suchandra">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-  <a href="https://linktr.ee/snvvs369">
-    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://leetcode.com/u/snvvsuchandraetti/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/22a91a0570">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/suchandra369">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/user_snvvsuchandra369/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/22353817/suchandra">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/snvvsuchandraetti">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <a href="mailto:snvvs369@gmail.com"><img src="https://img.shields.io/badge/snvvs369%40gmail.com-0a0f1e?style=flat-square&logo=gmail&logoColor=06B6D4"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/suchandra-etti"><img src="https://img.shields.io/badge/LinkedIn-0a0f1e?style=flat-square&logo=linkedin&logoColor=06B6D4"/></a>
+  &nbsp;
+  <a href="https://twitter.com/snvvs369"><img src="https://img.shields.io/badge/Twitter-0a0f1e?style=flat-square&logo=twitter&logoColor=06B6D4"/></a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1FjYTd5Va84wmQcAx1R5VXa1S0jAf2xyF/view"><img src="https://img.shields.io/badge/Resume-0a0f1e?style=flat-square&logo=readthedocs&logoColor=06B6D4"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=SnvvSuchandraEtti&style=flat-square&color=06B6D4&label=profile+views"/>
+</div>
+
+<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=1&section=header"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## `> whoami`
 
-### 📱 Mobile & Frontend
+```yaml
+name     : Suchandra Etti  (S N V V Suchandra)
+role     : Full-Stack & Mobile Developer
+location : Telangana, India 🇮🇳
+status   : Final-year B.Tech CSE @ Aditya University
+phone    : +91 7989635988
+```
+
+> *"I don't just write code — I build products that serve real people at scale."*
+
+I build end-to-end mobile & web applications that have reached **18,000+ users**, driven by clean architecture, agile execution, and a deep obsession with shipping things that actually work. From EdTech platforms to AI-powered tools, I turn ideas into production-ready software.
+
+---
+
+## `> impact --numbers`
+
+<div align="center">
+
+| Metric | Value |
+|:---|:---|
+| 👥 Users Served Across Apps | **18,000+** |
+| 🧩 Problems Solved (LeetCode / GFG / CodeChef / HackerRank) | **500+** |
+| 🏆 Global Competitive Rank | **Top 5% — Top 5,000** |
+| 📱 Apps Shipped to Production | **5+** |
+| 🎓 Students Reached via Leadership | **2,500+** |
+| ✅ Client Project Satisfaction Rate | **100%** |
+| 🏫 Institutions Represented (Hackathons) | **6+** |
+| 🔥 Sprint Completion Rate (Internship) | **95%** |
+
+</div>
+
+---
+
+## `> experience --work`
+
+**Flutter Developer Intern** — Technical Hub &nbsp; `Jun – Jul 2024`
+- Built enterprise Flutter e-commerce platform with Firebase auth; 40% performance gain via state management
+- 95% sprint completion in agile environment
+
+**Java Developer Intern** — Technical Hub &nbsp; `Apr 2024`
+- Architected multi-threaded Java enterprise system; 70% efficiency improvement, 60% faster data retrieval
+
+**Junior Developer** — Technical Hub &nbsp; `Aug 2023 – Present`
+- 12-month technical apprenticeship; mastered 7+ languages, delivered 5 client projects with 100% satisfaction
+
+---
+
+## `> projects --production`
+
+<details>
+<summary><b>📱 HOOT 2.0 — EdTech Platform</b> &nbsp; <code>Mar 2025</code> &nbsp; <a href="https://play.google.com/store/apps/details?id=com.technicalhub.hoot">Play Store ↗</a></summary>
+
+> EdTech platform with RESTful APIs supporting **10,000+ concurrent global users**
+- ↑ 45% user engagement through state management & API caching
+- 95% code coverage via automated testing; ↓ 30% production defects
+- **Stack:** Flutter, Firebase, REST APIs
+
+</details>
+
+<details>
+<summary><b>🏛️ ACLUB — College Clubs Management</b> &nbsp; <code>Jan 2025</code> &nbsp; <a href="https://github.com/SnvvSuchandraEtti/ACLUB">GitHub ↗</a></summary>
+
+> Mobile platform for university club administration
+- ↑ 65% admin workflow efficiency; ↑ 40% event participation
+- Real-time notifications + role-based auth → 98% positive feedback
+- **Stack:** Flutter, Firebase, Material Design
+
+</details>
+
+<details>
+<summary><b>🎯 S-TRACK — Student & Staff Tracker</b> &nbsp; <code>Nov 2024</code></summary>
+
+> Role-based tracking app serving **18,000+ users**
+- ↓ 70% administrative overhead with secure role-based auth
+- **Stack:** Flutter, Firebase
+
+</details>
+
+<details>
+<summary><b>🤖 AIBG-RM — AI Background Remover</b> &nbsp; <code>Oct 2024</code></summary>
+
+> Web app with **95% accuracy**, handling **1,000+ daily requests** at 60% faster performance
+- **Stack:** Python, React, AI/ML
+
+</details>
+
+<details>
+<summary><b>🌾 VIGGIEMART — Farmer–Buyer Marketplace</b> &nbsp; <code>Sep 2024 · SIH</code></summary>
+
+> Built during Smart India Hackathon — real-time bidding platform for farmers to get fair pricing
+- **Stack:** Flutter, Firebase, Real-time DB
+
+</details>
+
+---
+
+## `> skills --stack`
+
+### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,angular,ts,js,html,css,tailwind&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,dart,html,css,r&theme=dark&perline=10"/>
 </p>
 
-### ⚙️ Backend & Database
+### Frameworks & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express,bootstrap,mongodb,mysql,firebase,aws&theme=dark&perline=10"/>
 </p>
 
-### 🧰 Tools & Platforms
+### Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,linux,python,java,cpp,c,androidstudio&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,androidstudio,vscode,linux,postman,blender&theme=dark&perline=10"/>
 </p>
 
 ---
 
+## `> certifications --verified`
 
+<div align="center">
 
-## 📈 Contribution Activity
+![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman_API-Student_Expert-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![RedHat](https://img.shields.io/badge/RedHat-Certified-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Cisco](https://img.shields.io/badge/CCNAv7-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Completed-2D9CDB?style=flat-square&logo=hackthebox&logoColor=white)
+![Linux](https://img.shields.io/badge/NDG_Linux_Unhatched-Completed-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+![NPTEL IoT](https://img.shields.io/badge/NPTEL-Internet_of_Things-0052CC?style=flat-square&logo=coursera&logoColor=white)
+![NPTEL Cloud](https://img.shields.io/badge/NPTEL-Cloud_Computing-0052CC?style=flat-square&logo=coursera&logoColor=white)
+![NPTEL Privacy](https://img.shields.io/badge/NPTEL-Privacy_%26_Security-0052CC?style=flat-square&logo=coursera&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-Certified-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Certified-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Basic-Certified-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_%26_MySQL-Certified-777BB4?style=flat-square&logo=php&logoColor=white)
+
+</div>
+
+---
+
+## `> leadership --impact`
+
+**Program Coordinator — LEO Club, Aditya University**
+- Delivered technical workshops reaching **2,500+ students**
+- Improved event execution efficiency by 40% through data-driven planning
+
+**Event Manager — Movie Marathon, Aditya University** &nbsp; `Mar 2024`
+- Directed 24-hour event managing 15 volunteers; ↑ 35% attendance via digital marketing
+
+**Hackathon Representative** — KL · GIET · JNTUK · JNTUV · PRAGATI · ESHWAR
+- Represented college at 6+ institutions as technical delegate
+
+---
+
+## `> stats --github`
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SnvvSuchandraEtti&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=0ea5e9&point=f59e0b" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SnvvSuchandraEtti&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=06B6D4&text_color=94a3b8&ring_color=06B6D4" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SnvvSuchandraEtti&theme=dark&hide_border=true&background=0d1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=94a3b8&dates=94a3b8" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnvvSuchandraEtti&theme=dark&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=94a3b8&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SnvvSuchandraEtti&theme=react-dark&hide_border=true&bg_color=0d1117&color=06B6D4&line=06B6D4&point=ffffff" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## `> trophies`
 
 <p align="center">
-  <a href="https://github.com/SnvvSuchandraEtti/ShopNest">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SnvvSuchandraEtti&repo=ShopNest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=0ea5e9&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/SnvvSuchandraEtti/ACLUB">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SnvvSuchandraEtti&repo=ACLUB&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=0ea5e9&text_color=c9d1d9" />
-  </a>
-</p>
-
-| 🏗️ Project | 📝 Description | 🛠️ Stack | 🔗 Link |
-|------------|---------------|----------|---------|
-| **Leez** | AI-powered digital rental marketplace for Tier-2/3 cities | React, Flutter, Node.js, MongoDB, Firebase | 🚧 In Progress |
-| **ShopNest** | Full-featured e-commerce application | Java, Android | [GitHub](https://github.com/SnvvSuchandraEtti/ShopNest) |
-| **ACLUB** | College clubs management platform | Flutter, Firebase | [GitHub](https://github.com/SnvvSuchandraEtti/ACLUB) |
-| **Hoot App** | Student college application on Play Store | Flutter, Firebase | [Play Store](https://play.google.com/store/apps/details?id=com.technicalhub.hoot) |
-
----
-
-
-## 💬 Here is a Quote 4 🫵
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SnvvSuchandraEtti&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 ---
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+## `> connect --open_to_work`
 
-<p align="center">
-  <i>⭐ If you like my work, consider starring some repos — it fuels the builder in me! 🚀</i>
-</p>
+```
+💼  Open to: SDE roles · Internships · Technical collaborations
+🌐  Languages: Telugu (Native) · English (Professional) · Hindi (Intermediate)
+📬  Best way to reach me: snvvs369@gmail.com
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suchandra-etti)
+[![Resume](https://img.shields.io/badge/Download_Resume-06B6D4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1FjYTd5Va84wmQcAx1R5VXa1S0jAf2xyF/view)
+
+</div>
+
+<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=1"/>
+<br/>
+
+<div align="center">
+  <sub>Built with precision · Deployed with purpose · <b>Suchandra Etti © 2025</b></sub>
+</div>
