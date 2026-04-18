@@ -1,163 +1,212 @@
-<h1 align="center">👋 Hi, I'm Suchandra Etti</h1>
-<h3 align="center">A passionate Frontend and Application Developer from India</h3>
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Suchandra%20Etti&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%7C%20App%20Developer%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn" />
+
+<!-- PROFILE VIEWS + BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SnvvSuchandraEtti&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views" />
+  &nbsp;
+  <a href="https://github.com/SnvvSuchandraEtti?tab=followers">
+    <img src="https://img.shields.io/github/followers/SnvvSuchandraEtti?style=for-the-badge&color=0ea5e9&label=FOLLOWERS&logo=github" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20Mobile-f59e0b?style=for-the-badge" />
+</p>
+
+<!-- ANIMATED TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Suchandra+%F0%9F%91%8B;Frontend+%26+App+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Leez+%E2%80%94+AI+Rental+Marketplace+%F0%9F%9A%80;Flutter+%7C+React+%7C+Node.js+%7C+MongoDB;Always+learning%2C+always+building!" alt="Typing SVG" />
+</p>
+
+---
+
+## 🧠 About Me
+
+```yaml
+name        : Suchandra Etti
+location    : Telangana, India 🇮🇳
+education   : B.Tech CSE — Aditya University (Final Year)
+current_project : Leez — AI-Powered Digital Rental Marketplace
+                  (Tier-2 & Tier-3 cities focus)
+tech_stack  : [React.js, Flutter, Node.js, Express.js, MongoDB, Firebase]
+ai_features : [Cosine Similarity Recommendations, Regression Analytics]
+interests   : [App Dev, UI/UX, Fashion, Telugu Culture]
+fun_fact    : "I think I am funny!"
+open_to     : [Collaborations, E-Commerce Projects, Cloud + IoT]
+```
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-%F0%9F%92%BB-blue" alt="Frontend Developer Badge">
-  <img src="https://img.shields.io/badge/Application%20Development-Flutter%20&%20Node.js-brightgreen" alt="Application Developer Badge">
+  <a href="mailto:snvvs369@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/suchandra-etti">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/snvvs369">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/suchandra369">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@snvvs369/videos">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@snvvs369">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://dev.to/suchandra">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/snvvs369">
+    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/snvvsuchandraetti/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/22a91a0570">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/suchandra369">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/user_snvvsuchandra369/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/22353817/suchandra">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/snvvsuchandraetti">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
-- 🔭 **Currently working on:** [College Application for Students](https://play.google.com/store/apps/details?id=com.technicalhub.hoot&hl=en-US)
-- 🌱 **Currently learning:** Google Flutter, Node.js, Express.js, MongoDB
-- 👯 **Looking to collaborate on:** E-Commerce Applications
-- 🤝 **Need help with:** Cloud Computing and IoT Projects
-- 👨‍💻 **My work:** [GitHub Portfolio](https://github.com/SnvvSuchandraEtti)
-- 💬 **Ask me about:** Flutter, Java, Python
-- 📫 **How to reach me:** Just mail me at  [snvvs369@gmail.com](snvvs369@gmail.com)  or  [Here](https://linktr.ee/snvvs369)  
-- 📄 **Know my experience:** [Resume](https://drive.google.com/file/d/1FjYTd5Va84wmQcAx1R5VXa1S0jAf2xyF/view)
-- ⚡ **Fun Fact:** I think I am funny!
+## 🛠️ Tech Stack & Tools
+
+### 📱 Mobile & Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,angular,ts,js,html,css,tailwind&theme=dark&perline=10" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase&theme=dark&perline=10" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,linux,python,java,cpp,c,androidstudio&theme=dark&perline=10" />
+</p>
 
 ---
 
-### 🌐 Connect with Me
-<div align="center">
+## 📊 GitHub Stats
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SnvvSuchandraEtti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=0ea5e9&text_color=c9d1d9&ring_color=7c3aed" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SnvvSuchandraEtti&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f59e0b&currStreakLabel=0ea5e9" />
+</p>
 
-
-  <a href="https://twitter.com/snvvs369" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/suchandra-etti" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-    <a href="https://www.instagram.com/suchandra369" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-    <a href="https://www.facebook.com/profile.php?id=100070206241754" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-    <a href="https://www.codechef.com/users/suchandra369" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/22a91a0570" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-
-  <a href="https://leetcode.com/u/snvvsuchandraetti/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/user/user_snvvsuchandra369/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
-
-  <a href="https://stackoverflow.com/users/22353817/suchandra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-    <a href="https://discordapp.com/users/1024284026489544725" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-  <a href="https://codepen.io/snvvsuchandraetti" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/suchandra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@snvvs369" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@snvvs369/videos" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnvvSuchandraEtti&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&layout=compact&langs_count=8" />
+</p>
 
 ---
 
-### 🛠️ Languages and Tools
-<div align="center">
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="36" height="35" />
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SnvvSuchandraEtti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SnvvSuchandraEtti&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=0ea5e9&point=f59e0b" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/SnvvSuchandraEtti/ShopNest">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SnvvSuchandraEtti&repo=ShopNest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=0ea5e9&text_color=c9d1d9" />
   </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="36" height="36" />
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="36" height="36" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="36" height="36" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36" />
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="36" height="36" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="36" height="36" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="36" height="36" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="36" height="36" />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="36" height="36" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="36" height="36" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36" />
+  <a href="https://github.com/SnvvSuchandraEtti/ACLUB">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SnvvSuchandraEtti&repo=ACLUB&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=0ea5e9&text_color=c9d1d9" />
   </a>
 </p>
-</div>
+
+| 🏗️ Project | 📝 Description | 🛠️ Stack | 🔗 Link |
+|------------|---------------|----------|---------|
+| **Leez** | AI-powered digital rental marketplace for Tier-2/3 cities | React, Flutter, Node.js, MongoDB, Firebase | 🚧 In Progress |
+| **ShopNest** | Full-featured e-commerce application | Java, Android | [GitHub](https://github.com/SnvvSuchandraEtti/ShopNest) |
+| **ACLUB** | College clubs management platform | Flutter, Firebase | [GitHub](https://github.com/SnvvSuchandraEtti/ACLUB) |
+| **Hoot App** | Student college application on Play Store | Flutter, Firebase | [Play Store](https://play.google.com/store/apps/details?id=com.technicalhub.hoot) |
 
 ---
 
-### 🚀 Projects
-- [College Application for Students](https://play.google.com/store/apps/details?id=com.technicalhub.hoot&hl=en-US)
-- [E-Commerce Application](https://github.com/SnvvSuchandraEtti/ShopNest)
-- [Clubs Management Application](https://github.com/SnvvSuchandraEtti/ACLUB)
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SnvvSuchandraEtti/SnvvSuchandraEtti/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<details>
+<summary>⚙️ How to enable the snake animation</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+</details>
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+<p align="center">
+  <i>⭐ If you like my work, consider starring some repos — it fuels the builder in me! 🚀</i>
+</p>
