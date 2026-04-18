@@ -156,47 +156,8 @@ open_to     : [Collaborations, E-Commerce Projects, Cloud + IoT]
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SnvvSuchandraEtti/SnvvSuchandraEtti/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<details>
-<summary>⚙️ How to enable the snake animation</summary>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
-
----
-
-## 💬 Random Dev Quote
+## 💬 Here is a Quote 4 🫵
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
