@@ -14,7 +14,7 @@
 
 <!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Suchandra+%F0%9F%91%8B;Frontend+%26+App+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Leez+%E2%80%94+AI+Rental+Marketplace+%F0%9F%9A%80;Flutter+%7C+React+%7C+Node.js+%7C+MongoDB;Always+learning%2C+always+building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=Hey+there!+I'm+Suchandra+%F0%9F%91%8B;Final-Year+CSE+%40+Aditya+Engineering+College+%F0%9F%8E%93;Flutter+%7C+React+%7C+Node.js+%7C+MongoDB+%F0%9F%9B%A0%EF%B8%8F;500%2B+Problems+%7C+Top+5%25+Globally+%F0%9F%8F%86;Apps+Serving+18%2C000%2B+Real+Users+%F0%9F%9A%80;10%2C000%2B+Concurrent+Users+on+HOOT+2.0+%E2%9A%A1;SIH+Participant+%7C+Multi-College+Hackathon+Rep+%F0%9F%92%AA;AWS+Certified+%7C+Postman+Expert+%7C+NPTEL+%F0%9F%93%9C;7%2B+Languages+%7C+5+Client+Projects+%7C+100%25+Satisfaction;LEO+Coordinator+%E2%86%92+2500%2B+Students+Reached+%F0%9F%A4%9D;Figma+%7C+Blender+%7C+DaVinci+%7C+GIMP+%F0%9F%8E%A8;Telugu+Native+%7C+English+Pro+%7C+Hindi+Intermediate+%F0%9F%8C%8F;Always+Learning%2C+Always+Shipping+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 ---
@@ -130,45 +130,7 @@ open_to     : [Collaborations, E-Commerce Projects, Cloud + IoT]
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SnvvSuchandraEtti/SnvvSuchandraEtti/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<details>
-<summary>⚙️ How to enable the snake animation</summary>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
-
----
 
 ## Here is a Quote 4 🫵
 
