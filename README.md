@@ -25,8 +25,6 @@
 name        : Suchandra Etti
 location    : Telangana, India 🇮🇳
 education   : B.Tech CSE — Aditya University (Final Year)
-current_project : Leez — AI-Powered Digital Rental Marketplace
-                  (Tier-2 & Tier-3 cities focus)
 tech_stack  : [React.js, Flutter, Node.js, Express.js, MongoDB, Firebase]
 ai_features : [Cosine Similarity Recommendations, Regression Analytics]
 interests   : [App Dev, UI/UX, Fashion, Telugu Culture]
