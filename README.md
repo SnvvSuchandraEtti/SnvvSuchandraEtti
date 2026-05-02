@@ -142,5 +142,5 @@ open_to     : [Collaborations, E-Commerce Projects, Cloud + IoT]
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 <p align="center">
-  <i>⭐ If you like my work, consider starring some repos — it fuels the builder in me! 🚀</i>
+  <i>⭐ If you like my work, consider starring some repos it fuels the builder in me! 🚀</i>
 </p>
