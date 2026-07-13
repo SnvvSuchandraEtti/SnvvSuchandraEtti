@@ -14,7 +14,7 @@
 
 <!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=Hey+there!+I'm+Suchandra+%F0%9F%91%8B;Final-Year+CSE+%40+Aditya+Engineering+College+%F0%9F%8E%93;Flutter+%7C+React+%7C+Node.js+%7C+MongoDB+%F0%9F%9B%A0%EF%B8%8F;500%2B+Problems+%7C+Top+5%25+Globally+%F0%9F%8F%86;Apps+Serving+18%2C000%2B+Real+Users+%F0%9F%9A%80;10%2C000%2B+Concurrent+Users+on+HOOT+2.0+%E2%9A%A1;SIH+Participant+%7C+Multi-College+Hackathon+Rep+%F0%9F%92%AA;AWS+Certified+%7C+Postman+Expert+%7C+NPTEL+%F0%9F%93%9C;7%2B+Languages+%7C+5+Client+Projects+%7C+100%25+Satisfaction;LEO+Coordinator+%E2%86%92+2500%2B+Students+Reached+%F0%9F%A4%9D;Figma+%7C+Blender+%7C+DaVinci+%7C+GIMP+%F0%9F%8E%A8;Telugu+Native+%7C+English+Pro+%7C+Hindi+Intermediate+%F0%9F%8C%8F;Always+Learning%2C+Always+Shipping+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=680&lines=Hey+there!+I'm+Suchandra+%F0%9F%91%8B; Cse-Graduate+%40+Aditya+University+%F0%9F%8E%93;Flutter+%7C+React+%7C+Node.js+%7C+MongoDB+%F0%9F%9B%A0%EF%B8%8F;500%2B+Problems+%7C+Top+5%25+Globally+%F0%9F%8F%86;Apps+Serving+18%2C000%2B+Real+Users+%F0%9F%9A%80;10%2C000%2B+Concurrent+Users+on+HOOT+2.0+%E2%9A%A1;SIH+Participant+%7C+Multi-College+Hackathon+Rep+%F0%9F%92%AA;AWS+Certified+%7C+Postman+Expert+%7C+NPTEL+%F0%9F%93%9C;7%2B+Languages+%7C+5+Client+Projects+%7C+100%25+Satisfaction;LEO+Coordinator+%E2%86%92+2500%2B+Students+Reached+%F0%9F%A4%9D;Figma+%7C+Blender+%7C+DaVinci+%7C+GIMP+%F0%9F%8E%A8;Telugu+Native+%7C+English+Pro+%7C+Hindi+Intermediate+%F0%9F%8C%8F;Always+Learning%2C+Always+Shipping+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,12 +23,12 @@
 
 ```yaml
 name        : Suchandra Etti
-location    : Telangana, India 🇮🇳
-education   : B.Tech CSE — Aditya University (Final Year)
+location    : Mandapeta, India 🇮🇳
+education   : B.Tech CSE — Aditya University 
 tech_stack  : [React.js, Flutter, Node.js, Express.js, MongoDB, Firebase]
 ai_features : [Cosine Similarity Recommendations, Regression Analytics]
 interests   : [App Dev, UI/UX, Fashion, Telugu Culture]
-fun_fact    : "I think I am funny!"
+fun_fact    : "nenu Ai kaadhu!"
 open_to     : [Collaborations, E-Commerce Projects, Cloud + IoT]
 ```
 
